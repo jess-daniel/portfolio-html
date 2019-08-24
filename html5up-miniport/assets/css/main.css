@@ -1917,6 +1917,11 @@ input, select, textarea {
 		padding: 2em;
 	}
 
+		.box span i {
+			color: violet;
+			font-size: 4em;
+		}
+
 		.box.style1 {
 			padding: 3em 2em 3.5em 2em;
 		}
