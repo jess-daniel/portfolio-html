@@ -21,6 +21,16 @@ const projects = [
   },
   {
     imageLink: "#",
+    imageSrc: "images/brewery-info.png",
+    imageAlt: "Screenshot of the brewery info porfolio project",
+    name: "Brewery Info - React Frontend",
+    description:
+      "Consumes and displays data from a public brewery data API. Uses React, Material-UI, Styled-Components, and Conflux for state management",
+    githubLink: "https://github.com/jess-daniel/conflux-example",
+    deployedLink: "https://brewery-info.netlify.app/",
+  },
+  {
+    imageLink: "#",
     imageSrc: "images/space-shooter.png",
     imageAlt: "Screenshot of the Space Shooter 2D demo game in unity",
     name: "Space Shooter - Unity",
@@ -31,6 +41,7 @@ const projects = [
   },
 ];
 
+// https://brewery-info.netlify.app/
 /*
 *** Desired HTML Structure ***
 <div class="col-4 col-6-medium col-12-small">
