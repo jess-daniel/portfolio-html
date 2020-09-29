@@ -15,7 +15,7 @@ const projects = [
     imageAlt: "Screenshot of the Budget Blocks portfolio project",
     name: "Budget Blocks - Full Stack",
     description:
-      "Track your spending in differnent categories with the Plaid banking integration. A build-on project with 6 other engineers. Mobile-first design",
+      "Track your spending in differnent categories with the Plaid banking integration. A build-on project with 6 other engineers. Mobile-first design.",
     githubLink: "https://github.com/jess-daniel/budget-blocks-be",
     deployedLink: "https://www.budgetblocks.org",
   },
@@ -25,7 +25,7 @@ const projects = [
     imageAlt: "Screenshot of the brewery info porfolio project",
     name: "Brewery Info - React Frontend",
     description:
-      "Consumes and displays data from a public brewery data API. Uses React, Material-UI, Styled-Components, and Conflux for state management",
+      "Consumes and displays data from a public brewery data API. Uses React, Material-UI, Styled-Components, and Conflux for state management.",
     githubLink: "https://github.com/jess-daniel/conflux-example",
     deployedLink: "https://brewery-info.netlify.app/",
   },
@@ -35,7 +35,7 @@ const projects = [
     imageAlt: "Screenshot of the Space Shooter 2D demo game in unity",
     name: "Space Shooter - Unity",
     description:
-      "A 2D unity project with art and music provided. Developed with custom C# for scoring, upgrades, health and taking damage. Hosted on itch.io",
+      "A 2D unity project with art and music provided. Developed with custom C# for scoring, upgrades, health and taking damage. Hosted on itch.io.",
     githubLink: "https://github.com/jess-daniel/SpaceShooterDemo",
     deployedLink: "https://jess-daniel.itch.io/space-shooter-demo",
   },
